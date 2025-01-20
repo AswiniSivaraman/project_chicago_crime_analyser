@@ -83,6 +83,8 @@ The project consists of the following files:
    - Open `crime_analyser_dashboard.pbix` in Power BI.
    - Interact with the dashboard to explore crime insights visually.
 
+## **Dataset link**
+https://drive.google.com/file/d/18BHI7Pv2WFs5yzO9rQrrLZETriLUnlFd/view?usp=drive_link
 
 ## **PowerBi Dashboard**
 
