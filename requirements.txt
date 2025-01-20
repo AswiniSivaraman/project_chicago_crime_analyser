@@ -1,0 +1,6 @@
+pandas 
+streamlit 
+streamlit-option-menu 
+sqlalchemy 
+pymysql 
+plotly-express
